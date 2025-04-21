@@ -3,16 +3,16 @@ This simple fish script converts a tree structure from a txt file and creates di
 
 🧑‍💻 How to Use
 
-    Save it to a file:
+Save it to a file:
 
-nano create_structure_from_tree.fish
+    nano create_structure_from_tree.fish
 
 (paste the script and save with Ctrl+O, Enter, then Ctrl+X)
 
 Make it executable:
 
-chmod +x create_structure_from_tree.fish
+    chmod +x create_structure_from_tree.fish
 
 Run it:
 
-./create_structure_from_tree.fish tree.txt
+    ./create_structure_from_tree.fish tree.txt
